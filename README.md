@@ -1,2 +1,1 @@
-# VocabBuilder
-Dictionary application
+# Learn-Lingo
