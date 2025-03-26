@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/VocabBuilder/static/js/main.4e828934.js",
-    "index.html": "/VocabBuilder/index.html",
-    "main.4e828934.js.map": "/VocabBuilder/static/js/main.4e828934.js.map"
+    "main.js": "/GoodProject/static/js/main.02fff257.js",
+    "index.html": "/GoodProject/index.html",
+    "main.02fff257.js.map": "/GoodProject/static/js/main.02fff257.js.map"
   },
   "entrypoints": [
-    "static/js/main.4e828934.js"
+    "static/js/main.02fff257.js"
   ]
 }
