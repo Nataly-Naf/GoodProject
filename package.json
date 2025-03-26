@@ -1,8 +1,8 @@
 {
-  "name": "Learn-Lingo",
+  "name": "GoodProject",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Nataly-Naf.github.io/VocabBuilder/",
+  "homepage": "https://Nataly-Naf.github.io/GoodProject/",
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
     "@redux-devtools/extension": "^3.2.5",
